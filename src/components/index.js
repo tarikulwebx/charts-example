@@ -9,6 +9,7 @@ import BarRechart from "./BarRechart";
 import PieRechart from "./PieRechart";
 import RedialBarRechart from "./RedialBarRechart";
 import MixBarRechart from "./MixBarRechart";
+import Footer from "./Footer";
 
 export {
 	Navbar,
@@ -22,4 +23,5 @@ export {
 	PieRechart,
 	RedialBarRechart,
 	MixBarRechart,
+	Footer,
 };
